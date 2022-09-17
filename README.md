@@ -1,8 +1,7 @@
-MOD BY @JASH_GRO
-
-• No ads
-• Cleaned video player overlays
-• iOS Fonts used (SF)
-• No data sucking components
+**MOD BY @JASH_GRO**
+1. No ads
+2. Cleaned video player overlays
+3. iOS Fonts used (SF)
+4. No data sucking components
 
 JOIN @BIN_WORLDXD for updates.
