@@ -4,4 +4,4 @@
 3. iOS Fonts used (SF)
 4. No data sucking components
 
-JOIN @BIN_WORLDXD for updates.
+JOIN https://t.me/BIN_WORLDXD for updates.
